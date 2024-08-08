@@ -47,7 +47,7 @@ The performance of the model was evaluated after each iteration of the training.
 which was created during the dataset split. To shows a snapshot of iterations of training and model evaluation listing
 the Loss, Precision, Recall and F-Score.
 
-8. Accuracy Report Values
+7. Accuracy Report Values
    
 After the model training, the final scores for the accuracy report of the model are listed as below:
 ACCURACY REPORT FOR THE MODEL
