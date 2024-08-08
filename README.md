@@ -49,11 +49,13 @@ the Loss, Precision, Recall and F-Score.
 
 7. Accuracy Report Values
    
-After the model training, the final scores for the accuracy report of the model are listed as below:
+After the model training, the final scores for the accuracy 'for different-different algorithm' report of the model are listed as below:
 ACCURACY REPORT FOR THE MODEL
-Loss 0.0004745189443493558
-Precision 0.7826086956212407
-Recall 0.7983870967420005
-F-Score 0.790419161645093
+
+Logistic Regression Test Accuracy: 0.8810059200798708
+Decision Tree Test Accuracy: 0.8127867271771336
+KNN Test Accuracy: 0.8791539733245264
+SVC Test Accuracy: 0.8795439317757772
+Naive Bayes Test Accuracy: 0.8038184420263036
 
 
