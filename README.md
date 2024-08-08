@@ -50,6 +50,7 @@ the Loss, Precision, Recall and F-Score.
 7. Accuracy Report Values
    
 After the model training, the final scores for the accuracy 'for different-different Algorithm' report of the model are listed as below:
+
 ACCURACY REPORT FOR THE MODEL
 
 Logistic Regression Test Accuracy: 0.8810059200798708
